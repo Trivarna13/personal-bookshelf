@@ -44,6 +44,6 @@ That's it! You should now have the Bookshelf app up and running on your local ma
 
 The Book Search page allows users to search for books by name using the Open Library API. It displays search results, and users can add books to their bookshelf from here.
 
-## Bookshelf
+### Bookshelf
 
 The Bookshelf page displays the user's bookshelf, where all the books they've added are listed. Users can delete books from their bookshelf here. The bookshelf is maintained in the browser using localStorage, so it persists across page reloads and browser sessions.
